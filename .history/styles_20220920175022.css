@@ -1,0 +1,9 @@
+.TituloMenu{
+    text-align: center
+}
+
+img .ImagenMenu{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}

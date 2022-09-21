@@ -1,0 +1,15 @@
+.TituloMenu {
+  text-align: center;
+}
+
+img.ImageMenu {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.DescripcionMenu {
+  border: #603 dotted;
+  padding: 0.5em;
+  margin: 1em 2em;
+}

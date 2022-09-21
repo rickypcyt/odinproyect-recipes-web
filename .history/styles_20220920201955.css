@@ -1,0 +1,21 @@
+.TituloMenu {
+  text-align: center;
+}
+
+img.ImageMenu {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.DescripcionMenu {
+  border: black double;
+  padding: .5em;
+  margin: 2em 10%;
+}
+
+.IngredientsMenu {
+  border: black double;
+  padding: .5em;
+  margin: 2em 12em;
+}

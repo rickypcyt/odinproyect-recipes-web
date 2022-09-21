@@ -1,0 +1,44 @@
+html {
+  font-size: larger;
+  font-family: "Courier New", Courier, monospacec v;
+}
+
+.TituloMenu {
+  text-align: center;
+}
+
+img.ImageMenu {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.DescripcionMenu {
+  border: black double;
+  padding: 0.5em;
+  margin: 2em 16%;
+}
+
+.IngredientsMenu {
+  border: black double;
+  padding: 0.5em;
+  margin: 2em 16%;
+}
+.StepsMenu {
+  border: black double;
+  padding: 0.5em;
+  margin: 2em 16%;
+}
+.FooterBox {
+  border: black double;
+  padding: 0.5em;
+  margin: 2em 16%;
+}
+.FooterMenu {
+  display: flex;
+  justify-content: space-between;
+}
+
+li{
+    
+}
