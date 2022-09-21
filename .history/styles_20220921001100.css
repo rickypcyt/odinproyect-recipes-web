@@ -64,6 +64,10 @@ li {
   margin-right: auto;
 }
 
+.ImagesIndex {
+  
+}
+
 .FlexImageIndex {
   display: flex;
   justify-content: space-between;

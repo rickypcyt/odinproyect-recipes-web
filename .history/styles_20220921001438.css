@@ -69,8 +69,12 @@ li {
   justify-content: space-between;
 }
 
-.AMenu{
-    padding: 4%;
-    padding-bottom: 0%;
-    padding-top: 6%;
+.AMenu {
+  padding: 4%;
+  padding-bottom: 0%;
+  padding-top: 6%;
+}
+.AMenu2 {
+  padding: 4%;
+  padding-top: 6%;
 }

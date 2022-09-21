@@ -64,6 +64,10 @@ li {
   margin-right: auto;
 }
 
+.ImagesIndex {
+  
+}
+
 .FlexImageIndex {
   display: flex;
   justify-content: space-between;
@@ -71,6 +75,5 @@ li {
 
 .AMenu{
     padding: 4%;
-    padding-bottom: 0%;
-    padding-top: 6%;
+    padding
 }
