@@ -66,9 +66,11 @@ li {
 
 .FlexImageIndex {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 
 .AMenu{
     margin: 4%;
+    margin-bottom: 0%;
+    margin-top: 6%;
 }

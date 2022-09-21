@@ -69,6 +69,8 @@ li {
   justify-content: space-evenly;
 }
 
-.AMenu{
-    margin: 4%;
+.AMenu {
+  margin: 16%;
+  margin-top: auto;
+  
 }
